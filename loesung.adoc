@@ -1,1 +1,15 @@
+# Aufgabe 1: Was wird hier gezeichnet?
 
+  background(255);
+  fill(200);
+  rect(20, 20, 460, 360);
+  ellipse(20, 20, 460, 360);
+
+# Aufgabe 2: Reihenfolge
+
+  background(255);
+  fill(255, 0, 0);
+  rect(50,50,400,300);
+  fill(0,255,0);
+  ellipse(200,200, 90, 90);
+  ellipse(300, 250, 180, 180);
